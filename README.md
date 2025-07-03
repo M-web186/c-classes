@@ -1,12 +1,12 @@
-# C-Classes
+# C-programs
 
-A collection of C++ class examples and practice code.
+A collection of C++ program examples and practice code.
 
 ## Features
 
-- Example C++ classes
+- Example of C++ programs
 - Simple and easy-to-understand code
-- Great for learning and practicing OOP in C++
+- Great for learning and practicing  writing  C++ programs
 
 ## Getting Started
 
